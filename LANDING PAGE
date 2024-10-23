@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!DOCTYPE html>
+<html>
+<head>
+    <title>Background Color Example</title>
+    <style>
+        body {
+            background-color: lightblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Web Wave Solutions</h1>
+</body>
+</html>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS file -->
+    <style>
+        /* Navigation Bar Styles */
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333; /* Background color for the nav bar */
+        }
+        li {
+            float: left;
+        }
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        li a:hover {
+            background-color: #111; /* Change background color of links on hover */
+        }
+
+        /* Hero Section */
+        .hero {
+            padding: 20px;
+            text-align: center;
+        }
+        
+        /* Blog Section */
+        .blog {
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        .blog-post {
+            margin-bottom: 20px;
+        }
+
+        /* Services Section */
+        .services {
+            padding: 20px;
+        }
+        .service {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#blog">Blog</a></li>
+        <li><a href="#page">Page</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#templates">Templates</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+
+    <!-- Home Section -->
+    <section class="home" id="home">
+        <h1>Welcome to My WebWave Solutions Landing Page</h1>
+        <p>I'm thrilled to have you here! Whether you're exploring for the first time or returning, this page is designed to guide you through everything I offer. Here's a glimpse of what you can expect.</p>
+        <button>Learn More</button>
+    </section>
+    
+
+ <!-- Blog Section -->
+<section class="blog" id="blog">
+    <h2>Latest Blog Posts</h2>
+    <div class="blog-post">
+        <h3>Blog Post 1</h3>
+        <img src="file:///C:/Users/yaswa/OneDrive/Pictures/Screenshots/internship" width="300" height="200">
+    </div>
+    <div class="blog-post">
+        <h3>Blog Post 2</h3>
+        <img src="file:///C:C:/Users/yaswa/OneDrive/Pictures/Screenshots/internship" width="300" height="200">
+    </div>
+
+    <!-- Page Section -->
+    <section class="page" id="page">
+        <h2>About Our Page</h2>
+        <p>Welcome to [WebWave Solutions]! We are dedicated to providing innovative solutions and delivering exceptional value to our customers. With a passion for creativity and a commitment to excellence, we strive to make a positive impact on the lives of those we serve. Our journey began with a vision to create a platform that empowers individuals and businesses alike. Whether you’re looking for high-quality products, services, or valuable information, we are here to help you achieve your goals.</p>
+    </section>
+
+    <!-- Services Section -->
+    <section class="services" id="services">
+        <h2>Our Services</h2>
+        <div class="service">
+            <h3>Secure Service</h3>
+            <p>At [WebWave Solutions], we are committed to delivering top-quality solutions tailored to meet your unique needs. Our team of experienced professionals provides a wide range of services designed to help your business thrive in today's competitive market.</p>
+        </div>
+        <div class="service">
+            <h3>Customer Solutions</h3>
+            <p>We offer customer solutions that fit your specific requirements and help you achieve your business goals effectively.</p>
+        </div>
+    </section>
+
+</body>
+</html>
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:your-email@example.com">yaswanthreddtpochimireddy2@gmail.com</a></p>
+    <p>Phone: 8125765329 </p>
+  </section>
+  <footer>
+    <p>&copy; 2023 P.Yaswanth Reddy</p>
+  </footer>
+</body>
+</html>
