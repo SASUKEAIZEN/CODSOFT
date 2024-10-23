@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Name - Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>P.YASWANTH REDDY</h1>
+    <p>Passionate about coding, creativity, and innovation, I am a Computer Science and Business Systems student with hands-on experience in web development, constantly exploring new opportunities to learn and grow.</p>
+  </header>
+  <section id="about">
+    <img src="C:/Users/yaswa/OneDrive/Pictures/Screenshots/internship"   alt="my image"
+  </section>
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>BASIC KNOWLEDGE ABOUT WEB DEVELOPMENT</li>
+      <li>GRIP ON PROGRAMMING LANGUAGES LIKE C, C++, SQL.</li>
+      <li>BEST AT MANAGING ANY PROJECTS</li>
+    </ul>
+  </section>
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>LANDING PAGE</h3>
+      <p>The landing page showcases a modern, responsive design tailored to enhance user experience. It features smooth navigation and interactive elements to capture visitor attention. Built with efficient code and optimized for performance, it's a perfect blend of aesthetics and functionality.</p>
+      <img src="project-image.jpg" alt="Project 1">
+    </div>
+    <div class="project">
+      <h3>PORTFOLIO</h3>
+      <p>The portfolio project features a modern and responsive layout, built using HTML, CSS, JavaScript, and other web technologies. Each section, from personal bio to your project showcases, is carefully crafted to offer visitors a comprehensive understanding of your abilities, making it an essential tool for networking and career advancement.</p>
+      <img src="C:/Users/yaswa/OneDrive/Pictures/Screenshots/internShip" alt="Project 2">
+    </div>
+    <div class="project">
+      <h3>CALCULATOR</h3>
+      <p>The calculator project is a dynamic web-based application designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean, intuitive user interface and is built using HTML, CSS, and JavaScript for smooth functionality and responsive design.</p>
+      <img src="C:/Users/yaswa/OneDrive/Pictures/Screenshots/internsHip" alt="Project 3">
+    </div>
+  </section>
+  <section id="resume">
+    <h2>Resume</h2>
+    <a href="C:/Users/yaswa/Downloads/PROFESSIONAL RESUME ( P.YASWANTH REDDY).pdf" download>Download Resume</a>
+  </section>
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:your-email@example.com">yaswanthreddtpochimireddy2@gmail.com</a></p>
+    <p>Phone: 8125765329</p>
+  </section>
+  <footer>
+    <p>&copy; 2023 P.Yaswanth Reddy</p>
+  </footer>
+</body>
+</html>
